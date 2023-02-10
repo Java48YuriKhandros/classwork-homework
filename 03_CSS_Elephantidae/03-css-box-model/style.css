@@ -1,0 +1,19 @@
+body {
+    font-size: 32px;
+}
+
+#outer1 {
+    height: 200px;
+    background-color: blue;
+}
+
+#outer2 {
+    height: 200px;
+    background-color: green;
+}
+#inner1 {
+    height: 100px;
+    width: 80%;
+    background-color: red;
+    padding: 30px  10px;
+}

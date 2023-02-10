@@ -1,0 +1,31 @@
+body {
+    font-size: 32px;
+    margin: 0;
+}
+
+#outer1 {
+    height: 300px;
+    background-color: blue;
+    margin-bottom: 40px;
+    /* padding-left: 35px; */
+    padding-top: 1px;
+    /* border-top: 1px solid transparent; */
+}
+
+#outer2 {
+    height: 200px;
+    width: 65%;
+    background-color: green;
+    margin: 0 auto;
+    margin-top: 29px;   
+}
+#inner1 {
+    height: 100px;
+    width: 80%;
+    background-color: red;
+    padding: 30px  10px;
+    /* margin-left: 35px; */
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 15px;
+}
